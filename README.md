@@ -1,3 +1,9 @@
+![Security](https://img.shields.io/badge/security-hardened-green?style=for-the-badge&logo=linux)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge)
+
+
 # 🛡️ Linux System Hardening Guide
 
 Step-by-step scripts and documentation to secure a Linux server, covering user policies, SSH hardening, firewall, auditd, and essential security tools. Ideal for security analysts, DevSecOps, and ethical hackers.
