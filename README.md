@@ -41,4 +41,4 @@ Tools like Lynis for auditing and AIDE for integrity checking.
 ## 📜 License
 MIT License
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/YOURNAME) | [Twitter](https://twitter.com/YOURHANDLE)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/lakshaynimwal07/) 
