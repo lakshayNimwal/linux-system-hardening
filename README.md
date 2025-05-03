@@ -1,6 +1,6 @@
 # 🛡️ Linux System Hardening Guide
 
-A step-by-step, hands-on guide for hardening Linux systems against common threats and misconfigurations. Perfect for beginners in cybersecurity, DevSecOps, or sysadmin roles.
+Step-by-step scripts and documentation to secure a Linux server, covering user policies, SSH hardening, firewall, auditd, and essential security tools. Ideal for security analysts, DevSecOps, and ethical hackers.
 
 ## 📋 Table of Contents
 1. Basic Security
